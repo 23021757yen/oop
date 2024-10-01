@@ -13,7 +13,7 @@ public class TetrisGrid {
 	 * @param grid
 	 */
 	public TetrisGrid(boolean[][] grid) {
-
+		this.grid = grid;
 	}
 	
 	
